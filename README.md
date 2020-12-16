@@ -1,3 +1,4 @@
+IF THE .pynb FILE IS SHOWING ERROR
 TO OPEN THE ipynb FILE YOU HAVE TO OPEN THROUGH TH FOLLOWING LINK
 Try to open that notebook that you want using nbviewer online, you don't need to install it.
 
